@@ -44,6 +44,7 @@
   <p>
     💻  <a href="https://github.com/elizabethmagie/jammming">GitHub Repo</a>
   </p>
+  <img src="/jammming.png" width="600" height="300">
 </div>
 
 
