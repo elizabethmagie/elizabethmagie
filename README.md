@@ -37,6 +37,14 @@
 
 ### My Work
 <div>
+  <h4>Personal Website</h4>
+  <p>
+    I designed and developed a responsive personal website using TypeScript, React, CSS, and Bootstrap to showcase my projects, skills, and experience. This was an exciting front-end development challenge, pushing me to deepen my knowledge and refine my skills to create the most polished and intuitive design possible.
+  </p>
+  <p>
+    💻  <a href="https://elizabethmagie.github.io/Personal-Website/">Link</a>
+  </p>
+  
   <h4>Jammming</h4>
   <p>
     Jammming is a web application enabling users to search the Spotify library, craft personalized playlists, and save them directly to their Spotify accounts.
