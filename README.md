@@ -44,6 +44,7 @@
   <p>
     💻  <a href="https://elizabethmagie.github.io/Personal-Website/">Link</a>
   </p>
+  <img src="/personal.png" width="600" height="350">
   
   <h4>Jammming</h4>
   <p>
